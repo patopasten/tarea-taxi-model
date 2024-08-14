@@ -4,7 +4,7 @@ Este proyecto utiliza datos de viajes de taxis amarillos de Nueva York para el a
 
 ## Contenidos
 
-- `taxi_tip_classifier.ipynb`: Notebook Jupyter que contiene el código para entrenar y evaluar el modelo.
+- `00_nyc_taxi_model.ipynb`: Notebook Jupyter que contiene el código para entrenar y evaluar el modelo.
 - `random_forest.joblib`: Modelo entrenado guardado para su reutilización.
 - `src/`: Carpeta que contiene los datos de los viajes y características preprocesadas.
 
@@ -13,13 +13,7 @@ Este proyecto utiliza datos de viajes de taxis amarillos de Nueva York para el a
 1. Clona el repositorio:
 
     ```bash
-    git clone <URL_DEL_REPOSITORIO>
-    ```
-
-2. Navega al directorio del proyecto:
-
-    ```bash
-    cd <NOMBRE_DEL_DIRECTORIO>
+    git clone https://github.com/patopasten/tarea-taxi-model.git
     ```
 
 3. Instala las dependencias:
@@ -33,7 +27,7 @@ Este proyecto utiliza datos de viajes de taxis amarillos de Nueva York para el a
 1. Abre el notebook Jupyter:
 
     ```bash
-    jupyter notebook taxi_tip_classifier.ipynb
+    jupyter notebook 00_nyc_taxi_model.ipynb
     ```
 
 2. Ejecuta las celdas en el notebook para entrenar y evaluar el modelo.
