@@ -1,1 +1,55 @@
-# tarea-taxi-model
+# Clasificador de Propinas para Viajes en Taxi en NYC (2020)
+
+Este proyecto utiliza datos de viajes de taxis amarillos de Nueva York para el año 2020 para construir y evaluar un modelo de clasificación de propinas altas usando RandomForest.
+
+## Contenidos
+
+- `taxi_tip_classifier.ipynb`: Notebook Jupyter que contiene el código para entrenar y evaluar el modelo.
+- `random_forest.joblib`: Modelo entrenado guardado para su reutilización.
+- `src/`: Carpeta que contiene los datos de los viajes y características preprocesadas.
+
+## Instalación
+
+1. Clona el repositorio:
+
+    ```bash
+    git clone <URL_DEL_REPOSITORIO>
+    ```
+
+2. Navega al directorio del proyecto:
+
+    ```bash
+    cd <NOMBRE_DEL_DIRECTORIO>
+    ```
+
+3. Instala las dependencias:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Uso
+
+1. Abre el notebook Jupyter:
+
+    ```bash
+    jupyter notebook taxi_tip_classifier.ipynb
+    ```
+
+2. Ejecuta las celdas en el notebook para entrenar y evaluar el modelo.
+
+## Resultados
+
+El modelo es evaluado utilizando el F1-score a través de los datos de cada mes del año 2020. Los resultados se encuentran en el notebook Jupyter.
+
+## Contribuciones
+
+Las contribuciones son bienvenidas. Por favor, abre un "issue" o un "pull request" para colaborar.
+
+## Licencia
+
+Este proyecto está licenciado bajo la [Licencia MIT](https://opensource.org/licenses/MIT).
+
+## Contacto
+
+Para cualquier pregunta, por favor contacta a [tu_correo_electronico@dominio.com](mailto:tu_correo_electronico@dominio.com).
