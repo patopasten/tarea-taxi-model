@@ -40,10 +40,7 @@ El modelo es evaluado utilizando el F1-score a través de los datos de cada mes 
 
 Las contribuciones son bienvenidas. Por favor, abre un "issue" o un "pull request" para colaborar.
 
-## Licencia
-
-Este proyecto está licenciado bajo la [Licencia MIT](https://opensource.org/licenses/MIT).
 
 ## Contacto
 
-Para cualquier pregunta, por favor contacta a [tu_correo_electronico@dominio.com](mailto:tu_correo_electronico@dominio.com).
+Para cualquier pregunta, por favor contacta a [d.pastenc@udd.cl](mailto:d.pastenc@udd.cl).
